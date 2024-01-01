@@ -1,0 +1,34 @@
+body{
+    background-image: url("bg4.avif");
+    background-size: cover;
+    height: 100vh;
+    color: white;
+    /* background-color: black; */
+}
+h1{
+    text-align: center;
+}
+
+img{
+    height: 450px;
+}
+div{
+    position: absolute;
+    left: 150px;
+    width: 1200px;
+    /* border: 2px solid red; */
+    
+    
+}
+div p{
+    position: absolute;
+    right: 350px;
+    top: 150px;
+    
+}
+.one{
+    position: absolute;
+    left: 150px;
+    width: 1200px;
+    top: 600px;
+}
